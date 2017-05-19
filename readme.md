@@ -20,7 +20,7 @@ int Add(int x, int y)
 {
 	int result;
 	result=x+y;
-    return result;
+	return result;
 }
 int main()
 {
